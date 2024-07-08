@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.form-container, .lista-container{
+  display: grid;
+  gap: 18px; 
+  text-align: center;
+}
+.btn-borrar {
+  margin-left: 120px;
+}
+.btn-agregar {
+  background-color: blue;
+  width: 100px;
+  height: 50px;
+}
+.button-container {
+  text-align: center; 
+}
